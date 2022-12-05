@@ -1,0 +1,17 @@
+body{
+    background-image: url("bacgroundimg.jpg");
+}
+h1,h2,p{
+    color:white;
+    margin-bottom: 20px;
+}
+.container{
+    margin-top:100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    width:120px;
+}
+#save-el{
+    margin-top:20px;
+}
